@@ -1,0 +1,145 @@
+	#hed h1{
+		font-family:sans-serief;
+		letter-spacing: 1px;
+		font-size: 50px;
+		text-shadow: 2px 1px 1px red;
+		margin-left: 0px;
+	}
+	#hed{
+		height: 90px;
+		background-color: wheat;
+		position: fixed;
+
+
+	}
+	nav li{
+	display: inline;
+	padding-bottom: 30px;
+	margin-left: 0px;
+	margin-right: 10px;
+	}
+	nav ul{
+		padding-top: 30px;
+	}
+	section img{
+	    margin: 5px;
+	    border: 1px solid #ccc;
+	    padding-top: 0px;
+	    width: 280px;
+	}
+	section img:hover {
+	    border: 1px solid #777;
+	}
+
+	.main{
+		padding-bottom: 70px;
+	
+	}
+	.primary{
+		height: 70px;
+	padding-top: 90px;
+	}
+	
+	
+
+	 .primary section p{
+		text-align: justify;
+
+	}
+
+	.container_12 h1{
+		font-size: 180%;
+		font-family: arial;
+
+	}
+
+
+	.middle h1{
+	text-align: center;
+	padding-top: 40px;
+
+	color:blue;
+	}
+	.col{
+		text-align: center;
+		color: black;
+		font-family: sans-serif;
+		
+
+	}
+	.col h3{
+	text-align: center;
+	margin-right: 0px;
+	}
+	.threerows{
+		margin-left: 0px;
+		margin-right: 0px;
+		height: 300px;
+	}
+	.box1{
+		 border-radius: 25px;
+	  border: 5px solid #73AD21;
+	    padding: 20px;
+		width: 320px;
+		height: 10px;
+	    padding-right: 50px;
+	  
+	    margin-left: 50px;
+	  
+	}
+	.box2{
+		 border-radius: 25px;
+	  border: 5px solid purple;
+	    padding: 20px;
+		width: 320px;
+		height: 10px;
+	    padding-right: 50px;
+	  
+	    margin-left: 50px;
+	  
+	}
+	.box3{
+		 border-radius: 25px;
+	  border: 5px solid cyan;
+	    padding: 20px;
+		width: 320px;
+		height: 10px;
+	    padding-right: 50px;
+	  
+	    margin-left: 50px;
+	  
+	}
+	.row1{
+		
+		height: 100px;
+	}
+	.row2{
+		height: 100px;
+	}
+	.row3{
+		
+		height: 100px;
+	}
+	.last{
+		margin-left: 0px;
+		font-size: 20px;
+
+		
+	}
+	footer li{
+		display: inline;
+}
+	footer p{
+	}
+	.border{
+		 border-radius: 25px;
+	    background: pink;
+	    padding: 20px;
+	    
+	    height: 50px;
+	}
+
+
+
+		
+

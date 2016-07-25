@@ -1,0 +1,25 @@
+body
+{margin: auto;
+}
+.wrap
+{
+	width: 800px;
+	height: 1000px;
+	
+	margin: auto;
+	background-color: pink;
+	position: relative;
+
+}
+.box
+{
+	width: 70px;
+	height: 70px;
+	margin: auto;
+	
+	
+	background-color: blue;
+	position: absolute;
+	top: 30px;
+}
+<link rel="stylesheet" type="text/css" href="../css/reset.css">
